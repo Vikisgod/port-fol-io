@@ -124,9 +124,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
+    title: "Sathvik."
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "A passionate student studying Computer Science & Statistics."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -172,8 +172,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "Data Engineering Intern"
+        company: "Ionis Pharmaceuticals | Biotechnology"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
@@ -182,8 +182,8 @@ params:
           url: "https://example.com"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-      - job: "Software Developer"
-        company: "Amazon"
+      - job: "Product Manager"
+        company: "MedLaunch"
         companyUrl: "https://example.com"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
