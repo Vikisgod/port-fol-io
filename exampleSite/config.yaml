@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://hugo-profile.netlify.app" # Change
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Sathvik Perkari"
 theme: hugo-profile
 
 outputs:
@@ -334,6 +334,19 @@ params:
             url: https://github.com/gurusabarish/converter
 
       - title: Hugo Profile V2
+        content: A clean and simple Hugo template for personal portfolio and blog.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Demo V2
+          link: https://hugo-profile-2.netlify.app
+        badges:
+          - "Hugo"
+          - "Bootstrap"
+          - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/HugoProfileV2
+      - title: Vikky Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
         image: /images/projects/profile2.jpg
         featured:
