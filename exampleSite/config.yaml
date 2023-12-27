@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Sathvik."
     subtitle: "I build things for the web"
-    content: "A passionate student studying Computer Science & Statistics."
+    content: "A passionate student studying Computer Science & Statistics. I am gfdgdfgfdg"
     image: /images/hero.svg
     bottomImage:
       enable: true
