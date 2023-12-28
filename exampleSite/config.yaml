@@ -125,8 +125,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sathvik."
-    subtitle: "I build things for the web"
-    content: "A passionate student studying Computer Science & Statistics. I am gfdgdfgfdg"
+    subtitle: "" # Change
+    content: "A student studying Computer Science & Statistics. "
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -134,18 +134,13 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "#" # Change
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://example.com # Change
 
   # About
   about:
