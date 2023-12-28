@@ -148,13 +148,13 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-    I am an eager student studying Computer Science & Statistics, passionate about the intersection of data-driven insights and cutting-edge software solutions, with a goal to apply a holistic approach to product development. Excited to contribute to the creation of innovative products by leveraging diverse technical skills in software engineering processes.
+      I am an eager student studying Computer Science & Statistics, passionate about the intersection of data-driven insights and cutting-edge software solutions, with a goal to apply a holistic approach to product development. Excited to contribute to the creation of innovative products by leveraging diverse technical skills in software engineering processes.
 
-    I am currently developing a platform that aims to provide widespread access to marathon and triathlon training plans. Leveraging custom Language Models (LLMs), we aim to initiate individuals into their training programs more effectively and efficiently.
-
+      I am currently developing a platform that aims to provide widespread access to marathon and triathlon training plans. Leveraging custom Language Models (LLMs), we aim to initiate individuals into their training programs more effectively and efficiently.
+      
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few technologies I've been working with:"
       items:
         - "Python"
         - "Java"
