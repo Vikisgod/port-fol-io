@@ -125,8 +125,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sathvik."
-    subtitle: "I build things for the web"
-    content: "A passionate student studying Computer Science & Statistics. I am gfdgdfgfdg"
+    subtitle: "" # Change
+    content: "A student studying Computer Science & Statistics. "
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -134,18 +134,13 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "#" # Change
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://example.com # Change
 
   # About
   about:
@@ -153,19 +148,23 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+    I am an eager student studying Computer Science & Statistics, passionate about the intersection of data-driven insights and cutting-edge software solutions, with a goal to apply a holistic approach to product development. Excited to contribute to the creation of innovative products by leveraging diverse technical skills in software engineering processes.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+    I am currently developing a platform that aims to provide widespread access to marathon and triathlon training plans. Leveraging custom Language Models (LLMs), we aim to initiate individuals into their training programs more effectively and efficiently.
+
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
+        - "Python"
+        - "Java"
+        - "C++"
+        - "Figma"
+        - "SQL"
+        - "Jira"
+        - "R"
         - "HTML"
         - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
 
   # Experience
   experience:
@@ -238,39 +237,35 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Computer Science & Statistics"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of Illinois at Urbana-Champaign"
+          url: "https://illinois.edu/"
+        date: "2020 - 2024"
+        GPA: "3.5 out of 4.0"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+            - MedLaunch
+            - Association for Computing Machinery
+            - Illinois Triathalon
+      - title: "Computer Science"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "KTH Royal Institute of Technology | Stockholm"
+          url: "https://www.kth.se/en"
+        date: "January 2023 - June 2023"
+        GPA: "3.6 out of 4.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "Adlai E. Stevenson Highschool"
+          url: "https://www.d125.org/"
+        GPA: "3.5 out of 4.0"
         featuredLink:
           enable: true
           url: "https://example.com"
