@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sathvik."
-    subtitle: "I love to program and build products"
+    subtitle: "I love to build"
     content: "A student studying Computer Science & Statistics."
     image: /images/hero.svg
     bottomImage:
@@ -161,8 +161,8 @@ params:
         - "C++"
         - "Figma"
         - "SQL"
-        - "Jira"
         - "R"
+        - "Jira"
         - "HTML"
         - "CSS"
 
@@ -237,42 +237,33 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Computer Science & Statistics"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of Illinois at Urbana-Champaign"
+          url: "https://illinois.edu/"
+        date: "2020 - 2024"
+        GPA: "3.5 out of 4.0"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+            - MedLaunch
+            - Association for Computing Machinery(ACM)
+            - Illinois Triathalon
+      - title: "Computer Science"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "KTH Royal Institute of Technology | Stockholm"
+          url: "https://www.kth.se/en"
+        date: "January 2023 - June 2023"
+        GPA: "3.6 out of 4.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+            Worked on two seperate projects while doing coursework
+          - Developed a restaurant discovery software using data analytics and visualization techniques, presenting the project to professors across Stockholm.
+          - Worked with a product design group to create a CAD-designed, accessible product for individuals with disabilities, involving soldering and assembly; showcased the project at the Tekniska Museet in Stockholm.
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Adlai E. Stevenson Highschool"
+          url: "https://www.d125.org/"
+        GPA: "3.5 out of 4.0"
+
 
   # Achievements
   achievements:
