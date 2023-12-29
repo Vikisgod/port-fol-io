@@ -235,32 +235,42 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Computer Science & Statistics"
+      - title: "Master of Business Administration"
         school:
-          name: "University of Illinois at Urbana-Champaign"
-          url: "https://illinois.edu/"
-        date: "2020 - 2024"
-        GPA: "3.5 out of 4.0"
+          name: "University of California, Berkeley"
+          url: "https://example.org"
+        date: "2013 - 2015"
+        GPA: "3.8 out of 5.0"
         content: |-
           Extracurricular Activities
-            - MedLaunch
-            - Association for Computing Machinery(ACM)
-            - Illinois Triathalon
-      - title: "Computer Science"
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      - title: "Bachelor of Science in Computer Science"
         school:
-          name: "KTH Royal Institute of Technology | Stockholm"
-          url: "https://www.kth.se/en"
-        date: "January 2023 - June 2023"
-        GPA: "3.6 out of 4.0"
+          name: "Massachusetts Institute of Technology"
+          url: "https://example.org"
+        date: "2009 - 2013"
+        GPA: "3.9 out of 5.0"
         content: |-
-            Worked on two seperate projects while doing coursework
-          - Developed a restaurant discovery software using data analytics and visualization techniques, presenting the project to professors across Stockholm.
-          - Worked with a product design group to create a CAD-designed, accessible product for individuals with disabilities, involving soldering and assembly; showcased the project at the Tekniska Museet in Stockholm.
+          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          - Face mask detection using a single convolutional neural network.
+
+          Extracurricular Activities
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        featuredLink:
+          enable: true
+          name: "My academic record"
+          url: "https://example.com"
       - title: "High School"
         school:
-          name: "Adlai E. Stevenson Highschool"
-          url: "https://www.d125.org/"
-        GPA: "3.5 out of 4.0"
+          name: "Thomas Jefferson High School for Science and Technology."
+          url: "https://example.org"
+        GPA: "4.2 out of 5.0"
+        featuredLink:
+          enable: true
+          url: "https://example.com"
 
   # Achievements
   achievements:
