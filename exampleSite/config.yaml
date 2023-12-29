@@ -260,12 +260,9 @@ params:
           - Worked with a product design group to create a CAD-designed, accessible product for individuals with disabilities, involving soldering and assembly; showcased the project at the Tekniska Museet in Stockholm.
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Adlai E. Stevenson Highschool"
+          url: ""
+        GPA: "3.5 out of 4.0"
 
   # Achievements
   achievements:
