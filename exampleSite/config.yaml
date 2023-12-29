@@ -182,7 +182,7 @@ params:
         content: "I spearheaded the development of a Python interface to efficiently retrieve data for a workforce of over 1000 employees, creating 50 visually appealing dashboards that harnessed daily aggregation of 1500+ data fields to offer crucial insights. Additionally, I implemented cutting-edge scalability and security measures, leading to a remarkable 65% increase in overall data accessibility, while optimizing data processing efficiency for expedited decision-making and strategic planning."
 
       - job: "Startup Founder"
-        company: "Vletic"
+        company: "Vletics"
         companyUrl: "https://example.com"
         date: "Aug 2020 - Jan 2023"
         featuredLink:
