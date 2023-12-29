@@ -237,16 +237,17 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Computer Science & Statistics"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of Illinois at Urbana-Champaign"
+          url: "https://illinois.edu/"
+        date: "2020 - 2024"
+        GPA: "3.5 out of 4.0"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - MedLaunch
+            - Association for Computing Machinery(ACM)
+            - Illinois Triathalon
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Massachusetts Institute of Technology"
