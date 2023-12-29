@@ -175,12 +175,12 @@ params:
         company: "Ionis"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
-        content: "I spearheaded the development of a Python interface to efficiently retrieve data for a workforce of over 1000 employees, creating 50 visually appealing dashboards that harnessed daily aggregation of 1500+ data fields to offer crucial insights. Additionally, I implemented cutting-edge scalability and security measures, leading to a remarkable 65% increase in overall data accessibility, while optimizing data processing efficiency for expedited decision-making and strategic planning."
+        content: "I spearheaded the development of a internal Python interface to efficiently retrieve data for a workforce of over 1000 employees, creating 50 visually appealing dashboards that harnessed daily aggregation of 1500+ data fields to offer crucial insights. Additionally, I implemented cutting-edge scalability and security measures, leading to a remarkable 65% increase in overall data accessibility, while optimizing data processing efficiency for expedited decision-making and strategic planning."
 
       - job: "Startup Founder"
         company: "Vletics"
         companyUrl: "https://example.com"
-        date: "Aug 2020 - Jan 2023"
+        date: "June 2023 - Present"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -194,10 +194,10 @@ params:
 
           Currently working on efforts to integrate heart-rate analytics and tracking into the platform, aiming to enhance plan creation by tailoring workout regimens to the unique needs of each individual user.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
+      - job: "Product Lead"
+        company: "MedLaunch | Club"
         companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        date: "Sep 2020 - Jan 2023"
         info:
           enable: false
         featuredLink:
@@ -209,8 +209,8 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
+      - job: "Product and Software Design Research"
+        company: "KTH Royal Institute Of Technology"
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
         featuredLink:
@@ -221,12 +221,6 @@ params:
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
