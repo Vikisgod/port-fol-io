@@ -171,15 +171,15 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "Data Engineering Intern"
+        company: "Ionis Pharmaceuticals | Biotechnology"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I spearheaded the development of a Python interface to efficiently retrieve data for a workforce of over 1000 employees, creating 50 visually appealing dashboards that harnessed daily aggregation of 1500+ data fields to offer crucial insights. Additionally, I implemented cutting-edge scalability and security measures, leading to a remarkable 65% increase in overall data accessibility, while optimizing data processing efficiency for expedited decision-making and strategic planning."
 
       - job: "Software Developer"
         company: "Amazon"
