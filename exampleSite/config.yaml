@@ -237,7 +237,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Computer Science & Statistics"
+      - title: "Bachelor of Science in Computer Science & Statistics"
         school:
           name: "University of Illinois at Urbana-Champaign"
           url: "https://illinois.edu/"
@@ -248,12 +248,12 @@ params:
             - MedLaunch
             - Association for Computing Machinery(ACM)
             - Illinois Triathalon
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Computer Science"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "KTH Royal Institute of Technology | Stockholm"
+          url: "https://www.kth.se/en"
+        date: "January 2023 - June 2023"
+        GPA: "3.6 out of 4.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
