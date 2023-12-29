@@ -303,7 +303,7 @@ params:
     items:
       - title: Vletics
         content: Providing Triathletes with their own Plans
-        image: /images/projects/converter.jpg
+        image: /images/projects/vleticsprofile.jpg
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
