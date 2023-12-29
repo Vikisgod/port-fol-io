@@ -255,9 +255,13 @@ params:
         date: "2009 - 2013"
         GPA: "3.9 out of 5.0"
         content: |-
-            Worked on two seperate projects while doing coursework
-          - Developed a restaurant discovery software using data analytics and visualization techniques, presenting the project to professors across Stockholm.
-          - Worked with a product design group to create a CAD-designed, accessible product for individuals with disabilities, involving soldering and assembly; showcased the project at the Tekniska Museet in Stockholm.
+          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          - Face mask detection using a single convolutional neural network.
+
+          Extracurricular Activities
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "High School"
         school:
           name: "Thomas Jefferson High School for Science and Technology."
