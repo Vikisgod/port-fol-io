@@ -172,7 +172,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Data Engineering Intern"
-        company: "Ionissss
+        company: "Ionissss"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
