@@ -194,7 +194,7 @@ params:
 
           Currently working on efforts to integrate heart-rate analytics and tracking into the platform, aiming to enhance plan creation by tailoring workout regimens to the unique needs of each individual user.
 
-      - job: "Product Lead"
+      - job: "Product & Engineering Lead"
         company: "MedLaunch"
         companyUrl: "https://example.com"
         date: "Sep 2020 - Jan 2023"
@@ -204,10 +204,7 @@ params:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Product & Engineering for a prominent medical technology club, overseeing 70+ members in the creation of modern assistive technology for the disabled. Led professionals and engineers to produce 5+ fully functional prototypes, showcasing expertise in project management, team collaboration, and rapid prototyping. 
 
       - job: "Product and Software Design Research"
         company: "KTH Royal Institute Of Technology"
