@@ -214,10 +214,13 @@ params:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Developed an innovative and accessible museum exhibit, leveraging CAD design and hands-on assembly. The interactive exhibit is touch-responsive, catering specifically to individuals with visual or auditory impairments. Through tactile elements, audio descriptions, and Braille labels, the exhibit ensures an inclusive and enriching museum experience for all visitors.
+          - Hardware:Customized touch-sensitive interface, microcontrollers (programmed in Python) for interactivity.
+          - Software:CAD software (AutoCAD or SolidWorks) for design, embedded programming in Python for touch responsiveness.
+
+
+
 
   # Education
   education:
@@ -245,7 +248,7 @@ params:
         content: |-
           Worked on two seperate projects while doing coursework
           - Developed a restaurant discovery software using data analytics and visualization techniques, presenting the project to professors across Stockholm.
-          - Worked with a product design group to create a CAD-designed, accessible product for individuals with disabilities, involving soldering and assembly; showcased the project at the Tekniska Museet in Stockholm.
+          - Worked with a product design group to create a CAD-designed, accessible product for museum, involving soldering and assembly; showcased the project at the Tekniska Museet in Stockholm.
       - title: "High School"
         school:
           name: "Adlai E. Stevenson Highschool"
