@@ -127,7 +127,7 @@ params:
     title: "Sathvik."
     subtitle: "I love to build"
     content: "A student studying Computer Science & Statistics."
-    image: /images/rsz_3linkedin_photo.png
+    image: /images/LINKEDIN PHOTO (1).png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
