@@ -56,7 +56,7 @@ params:
   title: ""
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/SP1.png"
+  favicon: "/SP3.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -146,7 +146,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/LINKEDIN PHOTO.png"
     content: |-
       I am an eager student studying Computer Science & Statistics, passionate about the intersection of data-driven insights and cutting-edge software solutions, with a goal to apply a holistic approach to product development. Excited to contribute to the creation of innovative products by leveraging diverse technical skills in software engineering processes.
 
