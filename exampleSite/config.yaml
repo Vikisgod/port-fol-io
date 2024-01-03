@@ -255,6 +255,9 @@ params:
           url: ""
         GPA: "3.5 out of 4.0"
 
+# Just finish up the links and uploading to github for these 5 projecets
+# Post it and get the hosting on Netlify 
+# 
 
   # projects
   projects:
@@ -262,59 +265,66 @@ params:
     # title: "Custom Name"
     items:
       - title: Vletics
-        content: Providing Triathletes with their own Plans
+        content: AI-driven fitness platform, crafting personalized workout plans for novice triathletes and marathon runners through a user-friendly web application.
         image: /images/projects/vleticsprofile.jpg
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
+          - "Python"
+          - "CSS"
+          - "HTML"
+          - "Flask"
+          - "Figma"
+          - "Data Visualization"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: European Taste Test
+        content: Developed an interactive web application that visually maps and categorizes restaurants across 31 major European cities, facilitating user exploration through various filters and a D3.js sunburst visualization for an intuitive experience.
+        image: /images/projects/EuropeanTasteTest.png
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Demo
+          link: https://nikitav2.github.io/
         badges:
-          - "Hugo"
-          - "Bootstrap"
           - "Javascript"
+          - "CSS"
+          - "HTML"
+          - "Figma"
+          - "Python"
+          - "D3.js"
+          - "Data Visualization"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
+
+      - title: Spotify Recomendation Algorithm 
+        content: Led a team to develop a C++ application that generates connected music playlists based on user-input tracks, incorporating a customized recommendation system utilizing cleaned Spotify playlist data, resulting in a 94% approval rate for recommended songs.
+        image: /images/projects/SpotifyProjectHead.png
+        featured:
+          name: 
+          link:
+        badges:
+          - "C++"
+          - "DSA"
+          - "Python"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
-      - title: Vikky Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: PPRS (Play-by-Play-Recommendation-System)
+        content: Introducing an innovative web app for novice NFL enthusiasts, leveraging three years of play-by-play data to curate a personalized selection of the most thrilling upcoming season games, all enhanced by our proprietary rating system for unparalleled entertainment.
+        image: /images/projects/PPRSGPT.png
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          - "SQL"
+          - "HTML"
+          - "CSS"
+          - "GCP"
+          - "Flask"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
