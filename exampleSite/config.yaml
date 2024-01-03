@@ -266,7 +266,7 @@ params:
     items:
       - title: Vletics
         content: AI-driven fitness platform, crafting personalized workout plans for novice triathletes and marathon runners through a user-friendly web application.
-        image: /images/projects/vleticsprofile.jpg
+        image: /images/projects/vleticscoverphoto.jpg
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
