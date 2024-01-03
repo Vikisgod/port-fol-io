@@ -130,13 +130,7 @@ params:
     image: /images/LINKEDIN PHOTO (1).png
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "#" # Change
-      download: true
-      newPage: false
+    # roundImage: true # Make hero image circular | default falsez
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
