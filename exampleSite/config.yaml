@@ -353,23 +353,20 @@ params:
         links:
           - icon: fab fa-github
             url: 
-        - title: Weather Forcasting for University Schedules
-        content:  This project involved developing a Flask-based web microservice in Python to provide weather forecasts for the next meeting time of a specified university course, integrating with an existing course microservice and the National Weather Service's API. The focus was on API interactions, JSON data handling, and date-time calculations in a cloud-based service context.
-        image: /images/projects/WeatherForcast.png
+      - title: Cookie Clicker:Thread-Safe Wallet Library
+        content: 
+        image: /images/projects/CookieClicker.png
         featured:
           name: Demo V2
           link: 
         badges:
-          - "Python"
-          - "Docker"
-          - "Pandas Library"
-          - "SQL"
+          - "C"
           - "HTML"
           - "CSS"
-          - "Flask"
         links:
           - icon: fab fa-github
-            url:
+            url: 
+        
 
   #Contact
   contact:
