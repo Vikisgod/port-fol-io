@@ -333,25 +333,6 @@ params:
         links:
           - icon: fab fa-github
             url: 
-        - title: UIUC Course Rating System
-        content: The University of Illinois at Urbana-Champaign (UIUC) Course Rating System is a Java-based Android application designed to provide students with a platform to rate and review courses offered at UIUC. This application aims to assist students in making informed decisions about their course selections based on peer reviews and ratings.
-        image: /images/projects/UIUCCourseRating.png
-        featured:
-          name: Demo V2
-          link: 
-        badges:
-          - "Java"
-          - "Android Studio"
-          - "HTML"
-          - "CSS"
-          - "GCP"
-          - "Flask"
-        links:
-          - icon: fab fa-github
-            url: 
-        links:
-          - icon: fab fa-github
-            url: 
 
   #Contact
   contact:
