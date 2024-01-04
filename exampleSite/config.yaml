@@ -317,22 +317,6 @@ params:
         links:
           - icon: fab fa-github
             url: 
-      - title: Infinite Maze
-        content: This project was about collaboratively building an "Infinite Maze" game as a course, involving the design and implementation of middleware and backend microservices, with a focus on generating dynamic maze segments and integrating with a shared middleware. The skills emphasized were in system architecture, API design, cloud-based services, and teamwork in a large-scale software project.
-        image: /images/projects/InfiniteMaze.png
-        featured:
-          name: Demo V2
-          link: 
-        badges:
-          - "Python"
-          - "HTML"
-          - "CSS"
-          - "Docker"
-          - "Cloud"
-          - "Flask"
-        links:
-          - icon: fab fa-github
-            url: 
 
   #Contact
   contact:
