@@ -307,7 +307,7 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
       - title: PPRS (Play-by-Play-Recommendation-System)
-        content: Introducing an innovative web app for novice NFL enthusiasts, leveraging three years of play-by-play data to curate a personalized selection of the most thrilling upcoming season games, all enhanced by our proprietary rating system for unparalleled entertainment.
+        content: Introducing an innovative web app for novice NFL enthusiasts, leveraging three years of play-by-play data to curate a personalized selection of the most thrilling upcoming season games, all enhanced by our proprietary rating system for unparalleled entertainment. lol
         image: /images/projects/PPRSGPT.png
         featured:
           name: Demo V2
