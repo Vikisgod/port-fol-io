@@ -263,7 +263,7 @@ params:
         image: /images/projects/vleticscoverphoto.png
         featured:
           name: Demo
-          link: #Change
+          link: https://hugo-profile.netlify.app
         badges:
           - "Python"
           - "CSS"
@@ -274,6 +274,7 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
+
       - title: European Taste Test
         content: Developed an interactive web application that visually maps and categorizes restaurants across 31 major European cities, facilitating user exploration through various filters and a D3.js sunburst visualization for an intuitive experience.
         image: /images/projects/EuropeanTasteTest.png
@@ -291,6 +292,7 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
+
       - title: Spotify Recomendation Algorithm 
         content: Led a team to develop a C++ application that generates connected music playlists based on user-input tracks, incorporating a customized recommendation system utilizing cleaned Spotify playlist data, resulting in a 94% approval rate for recommended songs.
         image: /images/projects/SpotifyProjectHead.png
@@ -307,6 +309,9 @@ params:
       - title: PPRS (Play-by-Play-Recommendation-System)
         content: Introducing an innovative web app for novice NFL enthusiasts, leveraging three years of play-by-play data to curate a personalized selection of the most thrilling upcoming season games, all enhanced by our proprietary rating system for unparalleled entertainment.
         image: /images/projects/PPRSGPT.png
+        featured:
+          name: Demo V2
+          link: https://hugo-profile-2.netlify.app
         badges:
           - "Python"
           - "SQL"
@@ -316,7 +321,7 @@ params:
           - "Flask"
         links:
           - icon: fab fa-github
-            url: 
+            url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
@@ -334,7 +339,7 @@ params:
   footer:
     recentPosts:
       path: "blogs"
-      count: 3w
+      count: 3
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
@@ -369,6 +374,3 @@ params:
     article: "Jan 2, 2006"
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
-
-  #customScripts: -| # You can add custom scripts which will be added before </body> tag
-  #  <script type="text/javascript"><!-- any script here --></script>
