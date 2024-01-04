@@ -274,7 +274,6 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
-
       - title: European Taste Test
         content: Developed an interactive web application that visually maps and categorizes restaurants across 31 major European cities, facilitating user exploration through various filters and a D3.js sunburst visualization for an intuitive experience.
         image: /images/projects/EuropeanTasteTest.png
@@ -292,7 +291,6 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
-
       - title: Spotify Recomendation Algorithm 
         content: Led a team to develop a C++ application that generates connected music playlists based on user-input tracks, incorporating a customized recommendation system utilizing cleaned Spotify playlist data, resulting in a 94% approval rate for recommended songs.
         image: /images/projects/SpotifyProjectHead.png
