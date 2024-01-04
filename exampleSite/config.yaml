@@ -263,7 +263,7 @@ params:
         image: /images/projects/vleticscoverphoto.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: #Change
         badges:
           - "Python"
           - "CSS"
@@ -309,9 +309,6 @@ params:
       - title: PPRS (Play-by-Play-Recommendation-System)
         content: Introducing an innovative web app for novice NFL enthusiasts, leveraging three years of play-by-play data to curate a personalized selection of the most thrilling upcoming season games, all enhanced by our proprietary rating system for unparalleled entertainment.
         image: /images/projects/PPRSGPT.png
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
         badges:
           - "Python"
           - "SQL"
@@ -321,7 +318,102 @@ params:
           - "Flask"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: 
+      - title: Infinite Maze
+        content: This project was about collaboratively building an "Infinite Maze" game as a course, involving the design and implementation of middleware and backend microservices, with a focus on generating dynamic maze segments and integrating with a shared middleware. The skills emphasized were in system architecture, API design, cloud-based services, and teamwork in a large-scale software project.
+        image: /images/projects/InfiniteMaze.png
+        featured:
+          name: Demo V2
+          link: 
+        badges:
+          - "Python"
+          - "HTML"
+          - "CSS"
+          - "Docker"
+          - "Cloud"
+          - "Flask"
+        links:
+          - icon: fab fa-github
+            url: 
+        - title: UIUC Course Rating System
+        content: The University of Illinois at Urbana-Champaign (UIUC) Course Rating System is a Java-based Android application designed to provide students with a platform to rate and review courses offered at UIUC. This application aims to assist students in making informed decisions about their course selections based on peer reviews and ratings.
+        image: /images/projects/UIUCCourseRating.png
+        featured:
+          name: Demo V2
+          link: 
+        badges:
+          - "Java"
+          - "Android Studio"
+          - "HTML"
+          - "CSS"
+          - "GCP"
+          - "Flask"
+        links:
+          - icon: fab fa-github
+            url: 
+        links:
+          - icon: fab fa-github
+            url: 
+        - title: Weather Forcasting for University Schedules
+        content:  This project involved developing a Flask-based web microservice in Python to provide weather forecasts for the next meeting time of a specified university course, integrating with an existing course microservice and the National Weather Service's API. The focus was on API interactions, JSON data handling, and date-time calculations in a cloud-based service context.
+        image: /images/projects/WeatherForcast.png
+        featured:
+          name: Demo V2
+          link: 
+        badges:
+          - "Python"
+          - "Docker"
+          - "Pandas Library"
+          - "SQL"
+          - "HTML"
+          - "CSS"
+          - "Flask"
+        links:
+          - icon: fab fa-github
+            url:
+        - title: Cookie Clicker:Thread-Safe Wallet Library
+        content: This project involved creating a thread-safe "wallet library" in C to manage resources in a simulated environment, inspired by the game "Cookie Clicker." The focus was on concurrency, synchronization, and ensuring data integrity in a multithreaded context, with the requirement that the wallet balance never goes negative.
+        image: /images/projects/CookieClicker.png
+        featured:
+          name: Demo V2
+          link: 
+        badges:
+          - "C"
+          - "HTML"
+          - "CSS"
+          - "Flask"
+        links:
+          - icon: fab fa-github
+            url: 
+        - title: PNG-to-GIF Extraction Microservice
+        content: This project entailed building a Flask-based microservice in Python to extract hidden GIFs from PNG files, using C. It involved integrating a web service with backend processing, with an optional task to package the service in a Docker container for deployment.
+        image: /images/projects/GIFProj.png
+        featured:
+          name: Demo V2
+          link: 
+        badges:
+          - "Python"
+          - "Docker"
+          - "HTML"
+          - "CSS"
+          - "Flask"
+        links:
+          - icon: fab fa-github
+            url: 
+        - title: Versioned State Server
+        content: This project involved creating a versioned state server in Python, with two implementations, one using in-memory data structures and the other utilizing MongoDB as a NoSQL data store. The skills focused on were API development with Flask, data versioning, working with MongoDB and Docker, and understanding the principles of NoSQL databases and containerization.
+        image: /images/projects/State Server.png
+        featured:
+          name: Demo V2
+          link: 
+        badges:
+          - "Python"
+          - "NoSQL"
+          - "MongoDB"
+          - "HTML"
+          - "CSS"
+          - "Docker"
+          - "Flask"
 
   #Contact
   contact:
@@ -339,7 +431,7 @@ params:
   footer:
     recentPosts:
       path: "blogs"
-      count: 3
+      count: 3w
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
