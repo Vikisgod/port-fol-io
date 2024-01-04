@@ -381,24 +381,23 @@ params:
         links:
           - icon: fab fa-github
             url: 
-
       - title: Versioned State Server
-      content: This project involved creating a versioned state server in Python, with two implementations, one using in-memory data structures and the other utilizing MongoDB as a NoSQL data store. The skills focused on were API development with Flask, data versioning, working with MongoDB and Docker, and understanding the principles of NoSQL databases and containerization.
-      image: /images/projects/State Server.png
-      featured:
-        name:
-        link: 
-      badges:
-        - "Python"
-        - "NoSQL"
-        - "MongoDB"
-        - "HTML"
-        - "CSS"
-        - "Docker"
-        - "Flask"
-      links:
-        - icon: fab fa-github
-          url: 
+        content: This project involved creating a versioned state server in Python, with two implementations, one using in-memory data structures and the other utilizing MongoDB as a NoSQL data store. The skills focused on were API development with Flask, data versioning, working with MongoDB and Docker, and understanding the principles of NoSQL databases and containerization.
+        image: /images/projects/State Server.png
+        featured:
+          name:
+          link: 
+        badges:
+          - "Python"
+          - "NoSQL"
+          - "MongoDB"
+          - "HTML"
+          - "CSS"
+          - "Docker"
+          - "Flask"
+        links:
+          - icon: fab fa-github
+            url: 
         
 
   #Contact
