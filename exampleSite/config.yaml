@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app" # Change
+baseURL: "" # Change
 languageCode: "en-us"
 title: "Sathvik"
 theme: hugo-profile
@@ -412,8 +412,8 @@ params:
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
-
-  footer:
+'''
+    footer:
     recentPosts:
       path: "blogs"
       count: 3
@@ -426,6 +426,7 @@ params:
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
+'''
 
   # List pages like blogs and posts
   listPages:
