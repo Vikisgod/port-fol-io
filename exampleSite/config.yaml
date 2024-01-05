@@ -125,8 +125,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sathvik."
-    subtitle: "I love to build"
-    content: "A student studying Computer Science & Statistics."
+    subtitle: "Programmar and Product Builder"
+    content: "A student studying Computer Science & Statistics at the University of Illinois at Urbana-Champaign (UIUC)"
     image: /images/LINKEDIN PHOTO (1).png
     bottomImage:
       enable: true
@@ -443,7 +443,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved"
+    copyright: ""
     pageNotFound: "Page not found"
     emailText: "Check out this site"
 
