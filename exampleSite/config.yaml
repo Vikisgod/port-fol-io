@@ -381,7 +381,7 @@ params:
         links:
           - icon: fab fa-github
             url: 
-      - title: State Server
+      - title: Versioned State Server
         content: This project involved creating a versioned state server in Python, with two implementations, one using in-memory data structures and the other utilizing MongoDB as a NoSQL data store. The skills focused on were API development with Flask, data versioning, working with MongoDB and Docker, and understanding the principles of NoSQL databases and containerization.
         image: /images/projects/State Server.png
         featured:
@@ -412,7 +412,7 @@ params:
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
-'''
+
   footer:
     recentPosts:
       path: "blogs"
@@ -425,7 +425,7 @@ params:
       linkedin: https://linkedin.com
       twitter: https://twitter.com
       instagram: https://instagram.com
-      facebook: https://facebook.com '''
+      facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
