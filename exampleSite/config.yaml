@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sathvik."
-    subtitle: "Programmar and Product Builder"
+    subtitle: ""
     content: "A student studying Computer Science & Statistics at the University of Illinois at Urbana-Champaign (UIUC)"
     image: /images/LINKEDIN PHOTO (1).png
     bottomImage:
