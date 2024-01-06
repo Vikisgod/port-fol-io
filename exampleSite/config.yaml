@@ -43,7 +43,7 @@ Menus:
 
 params:
   title: ""
-  description: Text about my cool site
+  description: 
   # staticPath: ""  # The path to serve the static files from
   favicon: "/final_logo.png"
 
