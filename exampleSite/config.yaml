@@ -251,8 +251,8 @@ params:
         content: AI-driven fitness platform, crafting personalized workout plans for novice triathletes and marathon runners through a user-friendly web application.
         image: /images/projects/vleticscoverphoto.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: 
+          link: 
         badges:
           - "Python"
           - "CSS"
@@ -299,7 +299,7 @@ params:
         image: /images/projects/PPRSGPT.png
         featured:
           name:
-          link: https://hugo-profile-2.netlify.app
+          link: 
         badges:
           - "Python"
           - "SQL"
