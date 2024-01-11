@@ -164,9 +164,9 @@ params:
         company: "Vletics"
         companyUrl: "https://example.com"
         date: "June 2023 - Present"
-        '''featuredLink:
+        featuredLink:
           enable: true
-          url: "https://example.com" '''
+          url: "https://example.com"
         info:
           enable: true
           content: ffdsfds
